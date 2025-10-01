@@ -39,7 +39,8 @@ Then it was loaded to Power BI for Visualizatiion
 
 ## Which countries experience the most severe disasters?
 ![](Reginal_Analysis_Page.PNG)
-Looking at deaths - India sufferd the most with a stageering number of 54k, a big difference from the second placed Chine which suffered 32k deaths, Phillipines are third with 20k deaths and quite a margin fro 4th placed United States with 10k deaths. The next placed country is with 6k deaths and there is no much difeerence going down. The top 4 sufferd more combined than all other countries.
-For Displacemnts - India comes top again with a ridiculous 188M displacements (28% of total displacement), followed by China with 110M displacemnents (16% of total), with a big margin, Phillipines comes next with 27M displacements, then a couuntry not in top 4 deaths shows up in 5th with 13M displacemrnts, US also comes 5th with 10M displacments. With a difference of 5M from the next placed country and 1M difference more or less going down
+
+- Looking at deaths - India sufferd the most with a stageering number of 54k, a big difference from the second placed Chine which suffered 32k deaths, Phillipines are third with 20k deaths and quite a margin fro 4th placed United States with 10k deaths. The next placed country is with 6k deaths and there is no much difeerence going down. The top 4 sufferd more combined than all other countries.
+- For Displacemnts - India comes top again with a ridiculous 188M displacements (28% of total displacement), followed by China with 110M displacemnents (16% of total), with a big margin, Phillipines comes next with 27M displacements, then a couuntry not in top 4 deaths shows up in 5th with 13M displacemrnts, US also comes 5th with 10M displacments. With a difference of 5M from the next placed country and 1M difference more or less going down
 
 
